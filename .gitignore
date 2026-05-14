@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+
+# Profiles/Local data
+profiles.json
+
+# Executables
+*.exe
